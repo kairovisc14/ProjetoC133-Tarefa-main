@@ -1,0 +1,8 @@
+//Para criar o ambiente virtual em Python
+python3 -m venv meu_trabalho
+
+//Para ativar
+meu_trabalho\Scripts\activate
+
+//Para instalar o Flask
+pip install flask
